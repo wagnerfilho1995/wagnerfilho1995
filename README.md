@@ -1,15 +1,14 @@
 <div>
-  <h2>Hi, there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+  <h2>Hello, word! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="30"
          width="30" /> I'm Wagner Williams 👨‍💻</h2>
   <img align="right" alt="catGif" src="https://c.tenor.com/lDoAH0dehbIAAAAM/cat-mouse.gif" height="150px" class="giphy-embed" allowFullScreen>
 
-### I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, !
-- 👩🏻‍💻 I’m a computer engineering student at @[UFAL](https://ufal.br/).  
+- 👩🏻‍💻 I’m a computer engineering student at @[UFAL](https://ufal.br/). 
+- 🔭 I’m currently working as Frontend Web Developer at @[EDGE](https://www.linkedin.com/company/edge-inovacao/mycompany/verification/).
 - 🌱 I’m currently learning more about backend/frontend development.  
 - 😄 Pronouns: he/his.
-- 🔭 I’m currently working on a [Frontend Web App] at @[EDGE](https://www.linkedin.com/company/edge-inovacao/mycompany/verification/).
 - 💡 I love innovation and new technologies.
 - 🚀 One day I will see humans on Mars!
 
