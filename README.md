@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as Frontend Web Developer at @[EDGE](https://www.linkedin.com/company/edge-inovacao/mycompany/verification/).
 - 🌱 I’m currently learning more about backend/frontend development.  
 - 😄 Pronouns: he/his.
-- 💡 I love innovation and new technologies.
+-  💡 I love innovation and new technologies.
 - 🚀 One day I will see humans on Mars!
 
 ### 📫 Get in touch
