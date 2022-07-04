@@ -5,9 +5,9 @@
          width="30" /> I'm Wagner Williams 👨‍💻</h2>
   <img align="right" alt="catGif" src="https://c.tenor.com/lDoAH0dehbIAAAAM/cat-mouse.gif" height="150px" class="giphy-embed" allowFullScreen>
 
-- 👩🏻‍💻 I’m a computer engineering student at @[UFAL](https://ufal.br/). 
-- 🔭 I’m currently working as Frontend Web Developer at @[EDGE](https://www.linkedin.com/company/edge-inovacao/mycompany/verification/).
-- 🌱 I’m currently learning more about backend/frontend development.  
+- 👩🏻‍💻 I’m a computer engineering at @[UFAL](https://ufal.br/). 
+- 🔭 I’m currently working as Backend Python Developer at @[Burger King Brasil](https://www.linkedin.com/company/edge-inovacao/mycompany/verification/).
+- 🌱 I’m currently learning more about .NET for backend development.  
 - 😄 Pronouns: he/his.
 -  💡 I love innovation and new technologies.
 - 🚀 One day I will see humans on Mars!
